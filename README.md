@@ -2,7 +2,7 @@
 
 ## Descripción
 
-**BasicApiHotel** es una aplicación diseñada para la gestión de un hotel, que permite la administración de usuarios, empleados, habitaciones, reservaciones y servicios. Esta API RESTful está desarrollada en .NET y utiliza SQL Server como base de datos, garantizando una integración eficiente y escalable.
+**BasicApiHotel** es una aplicación diseñada para la gestión de un hotel, que permite la administración de usuarios, empleados, habitaciones, reservaciones y servicios. Esta API RESTful está desarrollada en .NET y utiliza SQL Server como base de datos.
 
 ## Estructura de la Base de Datos
 
