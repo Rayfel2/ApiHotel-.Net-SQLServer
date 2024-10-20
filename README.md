@@ -1,4 +1,4 @@
-# BasicApiHotel
+# ApiHotel
 
 ## Descripción
 
